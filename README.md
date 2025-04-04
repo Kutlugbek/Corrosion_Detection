@@ -27,8 +27,8 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone [https://github.com/username/repository-name.git](https://github.com/Kutlugbek/Corrosion_Detection.git)
+   cd Corrosion_Detection
    ```
 
 2. **Запустите код**:
