@@ -1,2 +1,2 @@
 # Corrosion_Detection
-[Watch the video]([https://github.com/username/repository-name/raw/main/path/to/video.mp4)](https://youtu.be/UOvi013_yPw)
+[![Video Title][(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://youtu.be/UOvi013_yPw)
